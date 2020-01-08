@@ -1,8 +1,5 @@
 import Zoom from 'react-medium-image-zoom';
-
-// CSS loading commented out for now since we are just focussing on the
-// pre-rendering of the React component
-// import 'react-medium-image-zoom/dist/styles.css';
+import 'react-medium-image-zoom/dist/styles.css';
 
 const Index = () => (
   <div>
